@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8494" started-at="2021-11-08T11:10:16 EST" finished-at="2021-11-08T11:10:24 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8494" started-at="2021-11-08T11:10:16 EST" finished-at="2021-11-08T11:10:24 EST">
+      <class name="Mavenjava.AppiumTest">
+        <test-method status="PASS" signature="BrowseAutomation()[pri:0, instance:Mavenjava.AppiumTest@51cdd8a]" name="BrowseAutomation" duration-ms="8" started-at="2021-11-08T11:10:16 EST" finished-at="2021-11-08T11:10:16 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseAutomation -->
+        <test-method status="PASS" signature="ElemenAutomation()[pri:0, instance:Mavenjava.AppiumTest@51cdd8a]" name="ElemenAutomation" duration-ms="0" started-at="2021-11-08T11:10:16 EST" finished-at="2021-11-08T11:10:16 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElemenAutomation -->
+      </class> <!-- Mavenjava.AppiumTest -->
+      <class name="Mavenjava.APITest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:Mavenjava.APITest@396f6598]" name="BrowserAutomation" duration-ms="0" started-at="2021-11-08T11:10:16 EST" finished-at="2021-11-08T11:10:16 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="ElementAutomation()[pri:0, instance:Mavenjava.APITest@396f6598]" name="ElementAutomation" duration-ms="0" started-at="2021-11-08T11:10:16 EST" finished-at="2021-11-08T11:10:16 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementAutomation -->
+      </class> <!-- Mavenjava.APITest -->
+      <class name="Mavenjava.SeleniumTest">
+        <test-method status="PASS" signature="ElementsAutomation()[pri:0, instance:Mavenjava.SeleniumTest@7c541c15]" name="ElementsAutomation" duration-ms="4926" started-at="2021-11-08T11:10:16 EST" finished-at="2021-11-08T11:10:21 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsAutomation -->
+        <test-method status="PASS" signature="getWebsite()[pri:0, instance:Mavenjava.SeleniumTest@7c541c15]" name="getWebsite" duration-ms="3487" started-at="2021-11-08T11:10:21 EST" finished-at="2021-11-08T11:10:24 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWebsite -->
+      </class> <!-- Mavenjava.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
